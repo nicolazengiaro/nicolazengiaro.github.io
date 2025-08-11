@@ -1,12 +1,38 @@
-- title: General Information
+- title: Personal information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Nicola Zengiaro
+    - name: Gender
+      value: He/Him
+    - name: Email
+      value: zengiaronicola@gmail.com
+      links: 
+        - link: mailto:zengiaronicola@gmail.com
+          name: ✉️
+    - name: Phone
+      value: +39 3801767792
+      links: 
+        - link: tel:+393801767792
+          name: 📞
+
+- title: Area of specialization
+  type: list
+  contents:
+    - Biosemiotics, Ecosemiotics, Animal Communication, Anthropocene Studies, Environmental Ethics, Complexity Theory
+
+- title: Languages
+  type: map
+  contents:
+    - name: Italian
+      value: Native
+    - name: Spanish
+      value: Native
+    - name: English
+      value: Excellent
+    - name: Catalan
+      value: Good
+
 
 - title: Education
   type: time_table
