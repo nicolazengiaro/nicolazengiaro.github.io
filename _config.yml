@@ -120,12 +120,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+  
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -170,14 +165,18 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _news/announcement_*.md
-  - _pages/blog.md
+  - _news/announcement_*.md  
   - _posts/
+  - _pages/blog.md
   - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/repositories.md
   - _projects/
   - _pages/projects.md
+  - _books/
+  - _pages/books.md
+  - _pages/news.md
+  
 
   - bin/
   - CONTRIBUTING.md
@@ -228,6 +227,15 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "blog"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
@@ -254,13 +262,13 @@ terser:
 
 jekyll-archives:
   posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: [] # disabilitati archivi per evitare /blog/2024/ ecc. nella sitemap
     permalinks:
-      year: "/blog/:year/"
+      year: "/blog/:year/" # mantenuti come riferimento se si riattivano
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
   books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: [year, tags, categories]
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
