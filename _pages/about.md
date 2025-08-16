@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Love the stones and lights of Vicenza
+subtitle: I am a biosemiotician specializing in animal studies, ecosemiotics, and complexity theory. 
 
 profile:
   align: right
