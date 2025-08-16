@@ -9,9 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 ### Research Areas  
-CULT-UP (University of Bologna) theorizes the efficacy of “cultural upcycling” by taking into account the semiotic value of recovered objects. Within this framework, I investigate how plastic waste affects animal interpretation processes and ecological communication.
-
-San Francesco e l’AI (University of Turin) explores how artificial intelligence can interpret signals from animals and plants, integrating semiotics, ethics, and technology to promote new forms of coexistence between humans and other living beings.
+Currently, I am a Research Fellow on the project “San Francesco e l’AI” at the Department of Philosophy and Education, University of Turin (PI: Prof. Massimo Leone, for the 2025/26 cycle), focusing on animal communication and artificial intelligence; I also collaborate on the PRIN–PNRR project “CULT-UP – Upcycling and Cultural Heritage” (2023–2025, total funding of €224,132), where I investigate how plastic waste affects animal interpretation processes and ecological communication.
 
 <!-- Bibsearch Feature -->
 
