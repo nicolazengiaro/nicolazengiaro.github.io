@@ -66,13 +66,9 @@ nav_order: 3
 <span style="color:gray;">22/11/2021</span>
 
 ---
-layout: page
-permalink: /international-conferences/
-title: International Conferences
-description: 
-nav: true
-nav_order: 4
----
+
+## International Conferences
+
 
 ### 2025
 
