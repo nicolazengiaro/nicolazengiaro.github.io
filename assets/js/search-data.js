@@ -16,12 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-events-and-talks",
-          title: "Events and talks",
+        },{id: "nav-events",
+          title: "Events",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-conferences",
+          title: "Conferences",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -37,7 +51,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{
+        },{id: "projects-cult-up",
+          title: 'CULT-UP',
+          description: "Upcycling and Cultural Heritage",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cult_up/";
+            },},{id: "projects-san-francesco-e-l-ai",
+          title: 'San Francesco e l’AI',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/san_francesco/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
