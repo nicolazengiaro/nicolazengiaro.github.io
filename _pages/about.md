@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold a Ph.D. in Semiotics from the [University of Bologna](https://www.unibo.it), where my dissertation explored the threshold between life and non-life through an ecosystemic lens, integrating perspectives from biosemiotics, evolutionary biology, systems theory, and artificial life sciences.
+I hold a Ph.D. in Semiotics from the [University of Bologna](https://site.unibo.it/segnalibri/it/interviste/intervista-a-nicola-zengiaro), where my dissertation explored the threshold between life and non-life through an ecosystemic lens, integrating perspectives from biosemiotics, evolutionary biology, systems theory, and artificial life sciences.
 
 My current research as a Fellow Researcher focuses on how AI decodes and models animal communication, exploring the potential of computational creativity and semiotic modeling to bridge the gap between human and non-human sign systems.
 
