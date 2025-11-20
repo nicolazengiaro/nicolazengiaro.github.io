@@ -51,7 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-cult-up",
+        },{id: "projects-masked",
+          title: 'MASKED',
+          description: "Motor Health and Semiotic Function in the Kinesthetic Expressivity of Neurodegenerative Disease",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MASKED/";
+            },},{id: "projects-cult-up",
           title: 'CULT-UP',
           description: "Upcycling and Cultural Heritage",
           section: "Projects",handler: () => {
