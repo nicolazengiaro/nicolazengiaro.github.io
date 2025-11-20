@@ -9,32 +9,72 @@ nav_order: 4
 
 ### 2025
 
+---
+
+#### Saint Francis and Artificial Intelligence: The Miracle of Speaking with Animals 
+**Convegno del Centro per le Scienze Religiose, FBK, Trento, Italy**  
+<span style="color:gray;">16–19/12/2025</span>
+
+---
+
+#### Econarrativas: el discurso del mundo vital  
+**Coloquio Internacional de Ecocrítica, Universidad de Costa Rica, Costa Rica**  
+<span style="color:gray;">30–31/10/2025</span>
+
+---
+
+#### Biosemiotica dell’espressione e risonanza affettiva dei sistemi viventi  
+**Espressione. A partire da Deleuze, Università degli Studi di Modena e Reggio Emilia, Italy**  
+<span style="color:gray;">23–25/10/2025</span>
+
+---
+
+#### Response-ability as Friendship: Listening to Nonhuman Worlds through AI  
+**Semiotic of Friendship: Relations Beyond Interactions, The 49th SSA Annual Conference of Semiotic Society of America, Charles University, Prague, Czech Republic**  
+<span style="color:gray;">24–28/09/2025</span>
+
+---
+
+#### Sanare la crisi dell’Antropocene: verso un’alleanza tra biosemiotica e intelligenza artificiale  
+**XXX Convegno della Società Italiana di Filosofia del Linguaggio, Università di Bologna, Italy**  
+<span style="color:gray;">18–20/09/2025</span>
+
+---
+
+#### Zoosemiotics and AI: New Challenges for Understanding Non-Human Communication  
+**Gatherings in Biosemiotics, Erasmus University Rotterdam, Holland**  
+<span style="color:gray;">24–29/08/2025</span>
+
+---
+
 #### Biosemiotics and Artificial Intelligence: Decoding the Language of Life  
-**Animality and Biosemiotics, University of Cagliari, Italy**  
+**Animality and Biosemiotics, Università di Cagliari, Italy**  
 <span style="color:gray;">20/06/2025</span>
 
 ---
 
 #### Lithosemiotics. Exploring Creativity, Complexity, and Intelligence in Inorganic Matter  
-**XIV Conference NASS, Tallinn, Estonia**  
+**XIV Conference NASS, University of Tallinn, Estonia**  
 <span style="color:gray;">11–13/06/2025</span>
 
 ---
 
 #### Beyond Human Intelligence: Artificial Intelligence creativity tools to translate the complexity of animal and plant sign systems (with D. Arkhipova)  
-**XIV Conference NASS, Tallinn, Estonia**  
+**XIV Conference NASS, University of Tallinn, Estonia**  
 <span style="color:gray;">11–13/06/2025</span>
 
 ---
 
 #### Biosemiotics and Ancestral Knowledge  
+**The Semiotics of the Good Life: Exploration through Multicultural Lenses** 
 **The Semiotics of the Good Life: Exploration through Multicultural Lenses, Nanjing Normal University, Nanjing, China**  
 <span style="color:gray;">06–08/06/2025</span>
 
 ---
 
 #### La natura dell’upcycling: il senso del superfluo  
-**L’upcycling come pratica ecologica e culturale, Università degli Studi di Torino, Turin, Italy**  
+**L’upcycling come pratica ecologica e culturale** 
+**Università degli Studi di Torino, Turin, Italy**  
 <span style="color:gray;">16/01/2025</span>
 
 ---
