@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-I collaborate on the PRIN–PNRR project “CULT-UP – Upcycling and Cultural Heritage” (2023–2025, total funding of €224,132), where I investigate how plastic waste affects animal interpretation processes and ecological communication.
+I collaborate on the PRIN–PNRR project “CULT-UP – Upcycling and Cultural Heritage” financed by the European Union – NextGenerationEU, grant cod. P2022FZAEA (ERC: SH5_8)(2023–2025, total funding of €224,132), where I investigate how plastic waste affects animal interpretation processes and ecological communication.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
