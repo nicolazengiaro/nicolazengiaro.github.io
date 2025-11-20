@@ -17,7 +17,7 @@ Currently, I am a Research Fellow on the project “San Francesco e l’AI” at
         {% include figure.liquid loading="eager" path="assets/img/projects/SanfSelfie.jpg" title="Our research group in Turin" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/SanfPoster.jpg" title="Presentation of the project at FBK in Trento" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/SanfBolo.jpg" title="Presentation of the project at FBK in Trento" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/SanfSanf.jpg" title="Conference at the Franciscan Festival in Piazza Maggiore, Bologna" class="img-fluid rounded z-depth-1" %}
@@ -28,7 +28,7 @@ Currently, I am a Research Fellow on the project “San Francesco e l’AI” at
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/SanfBolo.jpg" title="Presentation of results at the Philosophy of Language conference at the University of Bologna" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/SanfRotterdam.jpg" title="Presentation of results at the Philosophy of Language conference at the University of Bologna" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
