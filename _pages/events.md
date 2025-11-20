@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 #### Econarratives: Designing with Non-human Worlds  
-**NABA**, Workshop, Milan, Italy  
+[**NABA**](https://workshop.naba.it/), Workshop, Milan, Italy  
 <span style="color:gray;">24-28/11/2025</span>
 
 ---
@@ -20,7 +20,7 @@ nav_order: 3
 ---
 
 #### Reinventare i sensi del rifiuto  
-**CULT-UP: Upcycling and Cultural Heritage**, Workshop, University of Bologna, Italy  
+[**CULT-UP: Upcycling and Cultural Heritage**](https://site.unibo.it/cultup/it), Workshop, University of Bologna, Italy  
 <span style="color:gray;">24/05/2024</span>
 
 ---
