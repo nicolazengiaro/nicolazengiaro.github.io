@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,5 +26,5 @@ latest_posts:
 
 I hold a Ph.D. in Semiotics from the [University of Bologna](https://site.unibo.it/segnalibri/it/interviste/intervista-a-nicola-zengiaro), where my dissertation explored the threshold between life and non-life through an ecosystemic lens, integrating perspectives from biosemiotics, evolutionary biology, systems theory, and artificial life sciences.
 
-My current research as a Fellow Researcher focuses on how AI decodes and models animal communication, exploring the potential of computational creativity and semiotic modeling to bridge the gap between human and non-human sign systems.
+I am a research fellow at the University of Turin, where I work with [Massimo Leone](https://unifind.unito.it/resource/person/19433). My research explores how artificial intelligence can decode animal communication, focusing on how biosemiotic models can reveal what wild animals communicate to each other, what this tells us about their intelligence and interpretive processes, and how such understanding can reshape our relationship with animal subjectivity.
 
