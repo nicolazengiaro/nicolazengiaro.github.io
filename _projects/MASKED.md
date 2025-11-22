@@ -23,7 +23,7 @@ I'm working for the Secondment in [MASKED](https://cordis.europa.eu/project/id/1
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
