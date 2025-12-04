@@ -16,7 +16,7 @@ I'm working for the Secondment in [MASKED](https://cordis.europa.eu/project/id/1
         {% include figure.liquid loading="eager" path="assets/img/projects/MaskedPraga.JPG" title="Congress in Prague" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/MaskedRotterdam.JPG" title="Gatherings in Biosemiotics in Rotterdam" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/MaskedOlomouc.JPG" title="Gatherings in Biosemiotics in Rotterdam" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/MaskedOverview.JPG" title="Gatherings in Biosemiotics presentation Masked project" class="img-fluid rounded z-depth-1" %}
@@ -27,7 +27,7 @@ I'm working for the Secondment in [MASKED](https://cordis.europa.eu/project/id/1
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/MaskedPragaNov.JPG" title="Teaching class in Charles University" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/MaskedOlomouc1.JPG" title="Teaching class in Charles University" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
