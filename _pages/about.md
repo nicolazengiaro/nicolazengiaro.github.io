@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I am a biosemiotician specializing in animal studies, ecosemiotics, and complexity theory. 
+subtitle: I am a biosemiotician specializing in philosophy of biology, animal studies, and complexity theory. 
 
 profile:
   align: right
