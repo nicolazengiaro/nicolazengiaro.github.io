@@ -2,7 +2,7 @@
 layout: page
 title: MASKED
 description: Motor Health and Semiotic Function in the Kinesthetic Expressivity of Neurodegenerative Disease
-img: assets/img/MaskedFoto.jpg
+img: assets/img/projects/MaskedFoto.jpg
 importance: 3
 category: work
 related_publications: false
