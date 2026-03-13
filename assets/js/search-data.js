@@ -56,6 +56,11 @@ ninja.data = [{
           description: "Motor Health and Semiotic Function in the Kinesthetic Expressivity of Neurodegenerative Disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MASKED/";
+            },},{id: "projects-vitae",
+          title: 'VITAE',
+          description: "Vital Interpretations of Trans-ecologies, Animacy and Epistemologies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/VITAE/";
             },},{id: "projects-cult-up",
           title: 'CULT-UP',
           description: "Upcycling and Cultural Heritage",
