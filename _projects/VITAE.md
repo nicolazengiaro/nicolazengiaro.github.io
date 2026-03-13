@@ -2,7 +2,7 @@
 layout: page
 title: VITAE
 description: Vital Interpretations of Trans-ecologies, Animacy and Epistemologies
-img: 
+img: assets/img/projects/VITAE_Logo.jpeg
 importance: 4
 category: work
 related_publications: false
