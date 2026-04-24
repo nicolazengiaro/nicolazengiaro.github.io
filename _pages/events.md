@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 #### La biosemiotica come chiave per rileggere il (nostro) modello di conoscenza scientifica  
-[**NABA**](https://workshop.naba.it/), Workshop, Milan, Italy  
+[**MUSE**](https://www.muse.it/), Workshop, Trento, Italy 
 <span style="color:gray;">14/05/2026</span>
 
 ---
@@ -26,7 +26,7 @@ nav_order: 3
 ---
 
 #### Econarratives: Designing with Non-human Worlds  
-[**MUSE**](https://www.muse.it/), Workshop, Trento, Italy  
+[**NABA**](https://workshop.naba.it/), Workshop, Milan, Italy  
 <span style="color:gray;">24-28/11/2025</span>
 
 ---
