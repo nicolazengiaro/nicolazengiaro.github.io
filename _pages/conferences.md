@@ -7,6 +7,28 @@ nav: true
 nav_order: 4
 ---
 
+### 2026
+
+---
+
+#### Biosemiotics, AI, and the Ecology of Meaning: The Case of Sperm Whale Coda Vowel
+**Gatherings in Biosemiotics, Univeristy of Sheffield, UK**  
+<span style="color:gray;">27–31/07/2026</span>
+
+---
+
+#### Panel: Semiotic Freedom: A Common Ground for Cognitive Semiotics and Biosemiotics (with Kull, K.) 
+**IACS 6 – Sixth Conference of the International Association for Cognitive Semiotics, Università la Sapienza, Rome, Italy**  
+<span style="color:gray;">04–06/06/2026</span>
+
+---
+
+#### The Contribution of General Semiotics to Biosemiotics 
+**Convegno Ereditare Eco. Umberto Eco, l'Università di Bologna e tutti i saperi del mondo, Università di Bologna, Italy**  
+<span style="color:gray;">27–29/05/2026</span>
+
+---
+
 ### 2025
 
 ---

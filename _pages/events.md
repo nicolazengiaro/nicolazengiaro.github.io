@@ -7,6 +7,24 @@ nav: true
 nav_order: 3
 ---
 
+#### La biosemiotica come chiave per rileggere il (nostro) modello di conoscenza scientifica  
+[**MUSE**](https://www.muse.it/), Workshop, Trento, Italy 
+<span style="color:gray;">14/05/2026</span>
+
+---
+
+#### Econarrazioni. Cosa vuol dire narrare le creature del territorio?  
+[**Museo Naturalistico e Archeologico**](https://www.museicivicivicenza.it/it/mna/museo.php), Workshop, Vicenza, Italy  
+<span style="color:gray;">28/05/2026</span>
+
+---
+
+#### Econarratives. Weaving Nature's Tales throgh AI and Ecological Resonance  
+[**Jutsus-Liebig-Universität Giessen**](https://www.uni-giessen.de/en/faculties/ggkgcsc/ggk-gcsc-calendar/wise2526/workshops/econarratives-weaving-natures-tales-through-ai-and-ecological-resonance), Workshop, Giessen, Germany  
+<span style="color:gray;">27/01/2026</span>
+
+---
+
 #### Econarratives: Designing with Non-human Worlds  
 [**NABA**](https://workshop.naba.it/), Workshop, Milan, Italy  
 <span style="color:gray;">24-28/11/2025</span>
