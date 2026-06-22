@@ -24,4 +24,5 @@ The core idea behind VITAE is to empirically test how the meaning of “life” 
 **Presentations given to introduce the project:**
 
 10/04/2026, VITAE, "Successful MSCA-PF GF Proposal", Charles University.
+</div>
 25/06/2026, VITAE, "Skill transfer event for writing MSCA applications", Center for Environmental and Technology Ethics - Prague (CETE-P) 
