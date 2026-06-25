@@ -16,12 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-pubblicazioni",
+          title: "Pubblicazioni",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/publications/";
+          },
         },{id: "nav-events",
           title: "Events",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/events/";
+          },
+        },{id: "nav-eventi",
+          title: "Eventi",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/events/";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -30,12 +44,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-progetti",
+          title: "Progetti",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/projects/";
+          },
         },{id: "nav-vitae",
           title: "VITAE",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/vitae/";
+          },
+        },{id: "nav-vitae",
+          title: "VITAE",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/vitae/";
           },
         },{id: "nav-conferences",
           title: "Conferences",
@@ -44,6 +72,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/conferences/";
           },
+        },{id: "nav-conferenze",
+          title: "Conferenze",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/conferences/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "You can download my complete CV from the button above.",
@@ -51,12 +86,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Puoi scaricare il mio CV completo dal pulsante qui sopra.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/cv/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-didattica",
+          title: "Didattica",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/it/teaching/";
           },
         },{id: "projects-masked",
           title: 'MASKED',
