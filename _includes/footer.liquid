@@ -1,3 +1,5 @@
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign translations = site.data.translations[current_lang] | default: site.data.translations[site.lang] %}
 {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
@@ -7,7 +9,7 @@
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
   {% if site.last_updated %}
-    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+    {{ translations.last_updated }} {{ 'now' | date: '%B %d, %Y' }}.
   {% endif %}
 {% endcapture %}
 

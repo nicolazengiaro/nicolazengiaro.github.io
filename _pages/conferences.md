@@ -5,6 +5,8 @@ title: Conferences
 description: 
 nav: true
 nav_order: 5
+lang: en
+ref: conferences
 ---
 
 ### 2026

@@ -5,6 +5,8 @@ title: VITAE
 description: 
 nav: true
 nav_order: 4
+lang: en
+ref: vitae
 ---
 
 The core idea behind VITAE is to empirically test how the meaning of “life” shifts in an era shaped by ecological crisis, technological innovation, and cultural pluralism. Rather than reducing life to a fixed biological fact, the project approaches it as both a biological phenomenon and a culturally and historically situated concept, underscoring how different interpretations of life shape ecological responsibility and policy. Without rethinking what life means, current European and global policies for biodiversity protection and ecological governance risk remaining disconnected from the complexities of contemporary ecological challenges.

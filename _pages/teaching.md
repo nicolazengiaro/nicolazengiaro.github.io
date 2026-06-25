@@ -5,6 +5,8 @@ title: Teaching
 description: 
 nav: true
 nav_order: 6
+lang: en
+ref: teaching
 ---
 
 Design della Mente I, Scuola Holden. Contemporary Humanities  

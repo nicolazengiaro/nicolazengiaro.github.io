@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign translations = site.data.translations[current_lang] | default: site.data.translations[site.lang] %}
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
@@ -51,7 +53,7 @@ layout: default
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">{{ translations.latest_posts }}</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
@@ -59,7 +61,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">{{ translations.selected_publications }}</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

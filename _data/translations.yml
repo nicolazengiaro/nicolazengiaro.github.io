@@ -1,0 +1,18 @@
+en:
+  about: About
+  search: Search
+  change_theme: Change theme
+  current: current
+  latest_posts: latest posts
+  selected_publications: selected publications
+  last_updated: "Last updated:"
+  language_name: English
+it:
+  about: Chi sono
+  search: Cerca
+  change_theme: Cambia tema
+  current: corrente
+  latest_posts: ultimi post
+  selected_publications: pubblicazioni selezionate
+  last_updated: "Ultimo aggiornamento:"
+  language_name: Italiano

@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
-description: 
+permalink: /it/publications/
+title: Pubblicazioni
+description:
 nav: true
 nav_order: 2
-lang: en
+lang: it
 ref: publications
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/publications_it.md -->
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}

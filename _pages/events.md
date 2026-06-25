@@ -5,6 +5,8 @@ title: Events
 description: 
 nav: true
 nav_order: 3
+lang: en
+ref: events
 ---
 
 #### La biosemiotica come chiave per rileggere il (nostro) modello di conoscenza scientifica  
@@ -82,4 +84,3 @@ nav_order: 3
 #### La semiotica dell’ambiente  
 **Seminario di Ecologie Speculative**, Workshop, Rome, Italy  
 <span style="color:gray;">22/11/2021</span>
-
