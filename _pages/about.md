@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /
+lang: en
+ref: about
 subtitle: I am a biosemiotician specializing in philosophy of biology, animal studies, and complexity theory. 
 
 profile:
@@ -29,4 +31,3 @@ As a Marie Skłodowska-Curie Actions Global (MSCA) Postdoctoral Researcher at [C
 My current MSCA project, _VITAE. Vital Interpretations of Trans-ecologies, Animacy and Epistemologies_, empirically investigates how the concept of "life" is constructed and protected within global environmental policies. By bridging Indigenous ecological cosmologies from the Colombian Amazon with Western scientific models, the project develops a "trans-ecology" to inform inclusive biodiversity strategies and Rights of Nature frameworks.
 
 I hold a Ph.D. in Semiotics from the University of Bologna, where I specialized in the threshold between life and non-life in biosemiotics. Beyond my research, I have extensive experience in the writing and management of EU and PNRR projects, I serve as an Associate Editor of the journal [_Biosemiotics_](https://link.springer.com/journal/12304/editorial-board) for Springer Nature, Managing Editor of the journal [_Linguistic Frontiers_](https://reference-global.com/journal/LF?tab=editorial-board#journal-tabs), and I teach [Design of the Mind](https://scuolaholden.it/albodocenti/nicola-zengiaro) at Scuola Holden. Contemporary Humanities.
-
