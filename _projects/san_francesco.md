@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Currently, I am a Research Fellow on the project “San Francesco e l’AI” at the Department of Philosophy and Education, University of Turin, PI: Prof. [Massimo Leone](https://unifind.unito.it/resource/person/19433), N. 2025/DFE/10/BS (LEOM_CRT_25_01 – 110992), funded under CRT (total funding 30.000 EUR), focusing on animal communication and artificial intelligence.
+I worked as a Research Fellow on the project “San Francesco e l’AI” at the Department of Philosophy and Education, University of Turin, PI: Prof. [Massimo Leone](https://unifind.unito.it/resource/person/19433), N. 2025/DFE/10/BS (LEOM_CRT_25_01 – 110992), funded under CRT (total funding 30.000 EUR), focusing on animal communication and artificial intelligence.
 
 
 
@@ -33,3 +33,10 @@ Currently, I am a Research Fellow on the project “San Francesco e l’AI” at
 </div>
 
 In the Saint Francis and Artificial Intelligence project, I investigate how AI can decode animal vocalizations. My role focuses on applying a biosemiotic approach to connect research on interspecies communication with broader debates on ecology and climate change.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/SanfHonor.jpg" title="Letter of Honour" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/SanfAdige.jpg" title="Interview in the journal l'Adige" class="img-fluid rounded z-depth-1" %}
