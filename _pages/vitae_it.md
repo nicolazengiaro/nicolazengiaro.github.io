@@ -23,15 +23,16 @@ VITAE è finanziato dall'Unione Europea (HORIZON-MSCA-2025-PF-01-01) nell'ambito
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/VITAE_Museo.jpg" title="Congress in Prague" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vitae/VITAE_Museo.jpg" title="Congress in Prague" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/EAN_Team.JPG" title="Gatherings in Biosemiotics in Rotterdam" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vitae/EAN_Team.JPG" title="EAN_Team with Brigitte Baptiste" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/EAN_University.jpg" title="Gatherings in Biosemiotics presentation Masked project" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vitae/EAN_University.jpg" title="EAN_Building" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
 **Presentazioni dedicate all'introduzione del progetto:**
 
