@@ -22,3 +22,7 @@ Responding to the need identified by European and international agendas (e.g. Ho
 STAY TUNED!
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vitae/VITAE_Logo.png" title="Logo VITAE" class="img-fluid rounded z-depth-1" %}
+
