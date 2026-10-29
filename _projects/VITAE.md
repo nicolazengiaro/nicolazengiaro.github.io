@@ -2,7 +2,7 @@
 layout: page
 title: VITAE
 description: Vital Interpretations of Trans-ecologies, Animacy and Epistemologies
-img: assets/img/projects/VITAE_Logo.jpeg
+img: assets/img/projects/VITAE_Logo.png
 importance: 4
 category: work
 related_publications: false
@@ -21,4 +21,8 @@ Responding to the need identified by European and international agendas (e.g. Ho
 
 STAY TUNED!
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vitae/VITAE_Logo.png" title="Logo VITAE" class="img-fluid rounded z-depth-1" %}
 
