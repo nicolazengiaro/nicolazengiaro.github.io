@@ -42,4 +42,4 @@ VITAE è finanziato dall'Unione Europea (HORIZON-MSCA-2025-PF-01-01) nell'ambito
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vitae/VITAE_Logo.png" title="Logo VITAE" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vitae/VITAE_Logo.png" title="VITAE Logo" class="img-fluid rounded z-depth-1" %}
