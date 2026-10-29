@@ -39,3 +39,7 @@ VITAE è finanziato dall'Unione Europea (HORIZON-MSCA-2025-PF-01-01) nell'ambito
 - 10/04/2026, VITAE, "Successful MSCA-PF GF Proposal", Charles University.
 
 - 25/06/2026, VITAE, "Skill transfer event for writing MSCA applications", Center for Environmental and Technology Ethics - Prague (CETE-P)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vitae/Logo_Horizon.png" title="Logo Horizon" class="img-fluid rounded z-depth-1" %}
